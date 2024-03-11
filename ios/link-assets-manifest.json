@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ArbFONTS-DINNEXTLTARABIC-LIGHT-1.ttf",
+      "sha1": "c03fe7bea4f1405d5520ec989795c2e9423af6c2"
+    },
+    {
+      "path": "src/assets/fonts/ArbFONTS-DINNextLTArabic-Black-2.ttf",
+      "sha1": "fbcc9a5ce9f4fb4c59dff72aa70c36484b62e81f"
+    },
+    {
+      "path": "src/assets/fonts/ArbFONTS-DINNextLTArabic-Bold-2.ttf",
+      "sha1": "c5a20ff9d67eff3e6a5f0b97819e33654a7dc929"
+    },
+    {
+      "path": "src/assets/fonts/ArbFONTS-DINNextLTArabic-Heavy-1.ttf",
+      "sha1": "2c0f532dd310f133eb346627b9f63de71de970ed"
+    },
+    {
+      "path": "src/assets/fonts/ArbFONTS-DINNextLTArabic-Medium-2.ttf",
+      "sha1": "75e86520a0ed8b0978fe4c9f62162bcf5157ed25"
+    }
+  ]
+}
